@@ -21,3 +21,20 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nesantana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+
+### Contacts
+
+<div>
+  <a href="https://instragram.com/bedev.club">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@bedev.club">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/mateussantana">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/nesantana15">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
