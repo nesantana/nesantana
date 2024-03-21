@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Zankh Company | Frontend Senior and Leader Frontend
 - 🌱 I’m currently learning Svelte
 - 💬 Ask me about JavaScript or React
 
